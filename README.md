@@ -17,6 +17,7 @@ A tiny blog system
 
 ## Login
 There's several users currently exists in the system, the following is a new created user for demo.
+
  - Username: demo
  - Password: demo
 
