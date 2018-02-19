@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>sign up page</title>
+        <meta charset='utf-8'>
+        <link rel="stylesheet" href="style.css" type="text/css">
+    </head>
+   <body>
+    <?php require('function/printHead.php');?>
+    <div class=body>
+    <h1>Welcome to sign up!</h1><br>
+    <form action="signup.php" method=post>
+        <label for=username>Please enter a username:</label>
+        <input type=text name=username id=username><br>
+        <label for=password_1>Please enter a password:</label>
+        <input type=password name=password_1 id=password_1><br>
+        <label for=password_2>Please enter password again:</label>
+        <input type=password name=password_2 id=password_2>
+        <input type=submit value=signup><br>
+        <p>Click <a href=index.php>HERE</a> if you already have an account</p>
+    </form>
+    </div>
+   </body>
+</html>

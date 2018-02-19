@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteBase /
+
+IndexIgnore *
+RedirectMatch 404 /\.git
+
+<Files users.txt>
+	Order Allow,Deny
+	Deny from all
+</Files>
