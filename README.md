@@ -16,7 +16,7 @@ A tiny blog system
 [http://cse.xited.io/~grp/module3](http://cse.xited.io/~grp/module3)
 
 ## Login
-There's several users currently exists in the system, the following is a new created user for demo.
+There's several users currently exist in the system, the following is a new created user for demo.
 
  - Username: demo
  - Password: demo
