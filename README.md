@@ -1,29 +1,24 @@
-# README #
+# Module 3 group part
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A tiny blog system
 
-### What is this repository for? ###
+## Contributors
+457919 -- Jinhao Cui
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+458948 -- Zhuofu Li
 
-### How do I get set up? ###
+## Creative Portion
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Categories for stories
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+## Link
 
-### Who do I talk to? ###
+[http://cse.xited.io/~grp/module3](http://cse.xited.io/~grp/module3)
 
-* Repo owner or admin
-* Other community or team contact
+## Login
+There's several users currently exists in the system, the following is a new created user for demo.
+Username: demo
+Password: demo
+
+Feel free to create a new acount.
